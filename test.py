@@ -1,2 +1,2 @@
 print('yolo')
-print{'hobbies')
+print('hobbies')
